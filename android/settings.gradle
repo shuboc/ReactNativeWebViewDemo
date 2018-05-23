@@ -1,0 +1,3 @@
+rootProject.name = 'ReactNativeWebviewDemo'
+
+include ':app'
